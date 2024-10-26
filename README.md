@@ -1,4 +1,5 @@
-- 👋 我的b站:@B-windows10-user
+- 👋 原主b站:@B-windows10-user
+- 👋 我的b站:@努力让人生更有戏
 - 👀 个人网站:b-windows10-user.mysxl.cn,bilibili-w10.mysxl.cn,b-windows10-user-en.mysxl.cn
 - 🌱 常用语言:c++,python
 - 💞️ B站UID:UID1569663198
